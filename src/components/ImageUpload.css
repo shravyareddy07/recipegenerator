@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.image-upload-container {
+    text-align: center;
+    padding: 20px;
+  }
+
+  .main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* height: 100vh; */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .background-image {
+    background-image: url('bg4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    position: relative; /* Add this line */
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  input[type="file"] {
+    margin-top: 10px;
+    display: block;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff; /* You can change the color to your preference */
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3; /* You can change the hover color */
+  }
+  
+  a {
+    display: block;
+    margin-top: 20px;
+    font-size: 16px;
+    text-decoration: none;
+    color: #007bff; /* You can change the color to your preference */
+  }
+  

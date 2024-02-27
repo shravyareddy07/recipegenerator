@@ -1,0 +1,128 @@
+/* home.css */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* height: 100vh; */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 10px 20px;
+    background-color: #08080875;
+    /*You can customize the background color */
+    color: white;
+  }
+  
+  .navbar-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-icon {
+    width: 8vh; /* Adjust the size as needed */
+    height: 8vh; /* Adjust the size as needed */
+    margin-right: 10px;
+  }
+  
+  .navbar-title {
+    font-size: 8vh;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .logout-button {
+    background-color: #ff0000; /* Customize the button color */
+    color: white;
+    padding: 10px 20px; /* Adjust padding as needed */
+    border: 1px solid white;
+    border-radius: 25px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+
+.background-image {
+    background-image: url('bg4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    position: relative; /* Add this line */
+  }
+  .const {
+    background-image: url('construction.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    position: relative; /* Add this line */
+  }
+
+.button-container {
+    position: absolute; /* Add this line */
+    top: 55%; /* Adjust top position as needed */
+    left: 50%; /* Adjust left position as needed */
+    transform: translate(-50%, -50%); /* Center the buttons horizontally and vertically */
+    display: flex;
+    gap: 40px;
+  }
+
+.menu-button {
+    font-size: 3.3vh;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    border: 1px solid rgb(0, 0, 0); /* Remove the border */
+    border-radius: 25px; /* Increase border-radius for a rounded shape */
+    cursor: pointer;
+    background: linear-gradient(to right, rgb(255, 255, 255), rgba(255, 255, 255, 0.7)); /* Define a transparent gradient background */
+    transition: background-color 5s ease; /* Add a smooth transition on hover */
+  }
+
+  .menu-button:hover {
+    background: linear-gradient(to right, rgba(128, 128, 128, 0.7), rgba(0, 0, 0, 0.6)); /* Adjust the transparency on hover */
+  }
+
+  /* ImageUpload.css */
+
+.image-upload-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+input[type="file"] {
+  display: none; /* Hide the default file input style */
+}
+
+label {
+  background-color: #333; /* Button background color */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+label:hover {
+  background-color: #555; /* Button background color on hover */
+}
+
+

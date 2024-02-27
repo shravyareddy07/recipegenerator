@@ -1,0 +1,382 @@
+{
+    "APPLE_PIE": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "6-7 apples, peeled and sliced",
+        "1 cup sugar",
+        "1 teaspoon cinnamon",
+        "1 pie crust"
+      ],
+      "instructions": [
+        "Preheat your oven to 425°F (220°C).",
+        "In a large bowl, mix the sliced apples, sugar, and cinnamon.",
+        "Line a pie dish with a pie crust and pour the apple mixture into it.",
+        "Cover the apples with a second pie crust and make a few slits in the top crust for ventilation.",
+        "Bake for 45-55 minutes, until the crust is golden brown."
+      ]
+    },
+    "BABY_BACK_RIBS": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "2 racks of baby back ribs",
+        "1/4 cup barbecue rub",
+        "1 cup barbecue sauce"
+      ],
+      "instructions": [
+        "Preheat your grill to medium-high heat.",
+        "Season the ribs with the barbecue rub.",
+        "Grill the ribs for about 30-40 minutes, turning occasionally.",
+        "Baste the ribs with barbecue sauce during the last 10 minutes of cooking."
+      ]
+    },
+    "BAKLAVA": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "1 package of phyllo dough",
+        "2 cups of mixed nuts (e.g., walnuts, pistachios), finely chopped",
+        "1 cup unsalted butter, melted",
+        "1 teaspoon ground cinnamon",
+        "1 cup granulated sugar",
+        "1 cup water",
+        "1/2 cup honey"
+      ],
+      "instructions": [
+        "Preheat your oven to 350°F (175°C).",
+        "Layer phyllo dough sheets in a baking dish, brushing each layer with melted butter.",
+        "Mix the chopped nuts and cinnamon, then sprinkle them over the phyllo layers.",
+        "Cut the baklava into diamond or square shapes before baking.",
+        "Bake for about 45-50 minutes until golden brown.",
+        "While baklava is baking, make a syrup by boiling sugar and water, then add honey.",
+        "Pour the hot syrup over the baked baklava once it's out of the oven. Let it cool before serving."
+      ]
+    },
+    "BEEF_CARPACCIO": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "4-6 oz beef tenderloin or sirloin, thinly sliced",
+        "1-2 tablespoons olive oil",
+        "1-2 tablespoons lemon juice",
+        "Salt and black pepper to taste",
+        "Arugula, shaved Parmesan, and capers for garnish"
+      ],
+      "instructions": [
+        "Arrange the beef slices on a plate.",
+        "Drizzle with olive oil and lemon juice.",
+        "Season with salt and pepper.",
+        "Garnish with arugula, shaved Parmesan, and capers."
+      ]
+    },
+    "BEEF_TARTARE": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "8 oz beef tenderloin, finely chopped",
+        "2 tablespoons capers, chopped",
+        "2 tablespoons red onion, finely chopped",
+        "1 tablespoon Dijon mustard",
+        "1 egg yolk",
+        "Salt and black pepper to taste",
+        "Toasted bread or crackers for serving"
+      ],
+      "instructions": [
+        "In a bowl, combine the chopped beef, capers, red onion, Dijon mustard, and egg yolk.",
+        "Season with salt and pepper.",
+        "Mix well and serve with toasted bread or crackers."
+      ]
+    },
+    "BEET_SALAD": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "3-4 medium beets, roasted, peeled, and sliced",
+        "4 oz goat cheese",
+        "1/4 cup walnuts, toasted and chopped",
+        "Arugula or mixed greens",
+        "Balsamic vinaigrette dressing"
+      ],
+      "instructions": [
+        "Arrange the roasted beet slices on a plate with arugula or mixed greens.",
+        "Crumble goat cheese and sprinkle over the beets.",
+        "Top with toasted walnuts.",
+        "Drizzle with balsamic vinaigrette dressing before serving."
+      ]
+    },
+    "BEIGNETS": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "2 1/4 teaspoons active dry yeast",
+        "1/4 cup warm water (110°F)",
+        "1 cup milk",
+        "1/4 cup granulated sugar",
+        "2 tablespoons vegetable oil",
+        "1 teaspoon salt",
+        "4 cups all-purpose flour",
+        "2 large eggs",
+        "Powdered sugar for dusting",
+        "Oil for frying"
+      ],
+      "instructions": [
+        "Dissolve yeast in warm water and let it sit for 5 minutes.",
+        "In a large bowl, mix milk, sugar, oil, and salt. Add 2 cups of flour and beat until smooth.",
+        "Stir in eggs and enough remaining flour to form a soft dough.",
+        "Knead the dough on a floured surface until smooth, then cover and let it rise for 1 hour.",
+        "Punch down the dough and roll it out to 1/4 inch thickness. Cut into squares or circles.",
+        "Heat oil in a deep-fryer or large pot to 360°F (180°C).",
+        "Fry beignets until puffed and golden brown, then drain on paper towels.",
+        "Dust with powdered sugar and serve."
+      ]
+    },
+    "BIBIMBAP": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "2 cups cooked short-grain rice",
+        "1 cup sliced and sautéed vegetables (carrots, spinach, zucchini, mushrooms, bean sprouts)",
+        "1/2 cup thinly sliced beef, cooked with soy sauce and sugar",
+        "2 fried eggs",
+        "Gochujang sauce (Korean red pepper paste)",
+        "Sesame oil",
+        "Sesame seeds for garnish"
+      ],
+      "instructions": [
+        "Place a serving of cooked rice in a bowl.",
+        "Arrange the sautéed vegetables, cooked beef, and fried egg on top of the rice.",
+        "Drizzle with gochujang sauce, sesame oil, and garnish with sesame seeds.",
+        "Mix everything together before eating."
+      ]
+    },
+    "BREAD_PUDDING": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "4 cups stale bread cubes (French or Italian bread)",
+        "2 cups milk",
+        "1/2 cup granulated sugar",
+        "2 teaspoons vanilla extract",
+        "1/2 cup raisins (optional)",
+        "1/2 teaspoon ground cinnamon"
+      ],
+      "instructions": [
+        "Preheat your oven to 350°F (175°C).",
+        "In a bowl, mix together the milk, sugar, and vanilla extract.",
+        "Add the bread cubes and let them soak for about 10 minutes.",
+        "Stir in the raisins and cinnamon.",
+        "Pour the mixture into a greased baking dish.",
+        "Bake for 45-55 minutes or until the pudding is set and the top is golden brown."
+      ]
+    },
+    "BREAKFAST_BURRITO": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "2 large eggs",
+        "2 large flour tortillas",
+        "1/2 cup cooked breakfast sausage or bacon",
+        "1/4 cup shredded cheddar cheese",
+        "Salsa or hot sauce (optional)"
+      ],
+      "instructions": [
+        "Scramble the eggs in a pan.",
+        "Place tortillas on a flat surface.",
+        "Add the scrambled eggs, cooked sausage or bacon, and cheese onto each tortilla.",
+        "Roll up the tortillas, folding in the sides, to form a burrito.",
+        "Serve with salsa or hot sauce."
+      ]
+    },
+    "BRUSCHETTA": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "4-6 slices of crusty Italian bread",
+        "2-3 ripe tomatoes, diced",
+        "2 cloves garlic, minced",
+        "Fresh basil leaves, chopped",
+        "Olive oil",
+        "Balsamic vinegar (optional)",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Grill or toast the bread until it\"s crispy.",
+        "In a bowl, combine the diced tomatoes, minced garlic, and chopped basil.",
+        "Drizzle with olive oil and, if desired, a touch of balsamic vinegar.",
+        "Spoon the tomato mixture onto the toasted bread slices."
+      ]
+    },
+    "CAESAR_SALAD": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "Romaine lettuce",
+        "Caesar dressing (store-bought or homemade)",
+        "Croutons",
+        "Grated Parmesan cheese"
+      ],
+      "instructions": [
+        "Wash and chop the Romaine lettuce.",
+        "Toss the lettuce with Caesar dressing.",
+        "Top with croutons and grated Parmesan cheese.",
+        "https://www.youtube.com/watch?v=DG1CX3u8ypo"
+      ]
+ 
+    },
+    "CANNOLI": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "12 cannoli shells (store-bought or homemade)",
+        "2 cups ricotta cheese",
+        "1/2 cup powdered sugar",
+        "1/2 teaspoon vanilla extract",
+        "1/4 cup mini chocolate chips"
+      ],
+      "instructions": [
+        "In a bowl, mix ricotta cheese, powdered sugar, and vanilla extract.",
+        "Stir in the mini chocolate chips.",
+        "Fill the cannoli shells with the ricotta mixture.",
+        "Dust with powdered sugar before serving."
+      ]
+    },
+    "CAPRESE_SALAD": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "Fresh tomatoes",
+        "Fresh mozzarella cheese",
+        "Fresh basil leaves",
+        "Extra virgin olive oil",
+        "Balsamic vinegar (optional)",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Slice the tomatoes and mozzarella cheese.",
+        "Arrange them on a plate with fresh basil leaves.",
+        "Drizzle with olive oil (and balsamic vinegar, if desired).",
+        "Season with salt and pepper."
+      ]
+    },
+      "CARROT_CAKE": {
+        "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "2 cups granulated sugar",
+        "1 cup vegetable oil",
+        "4 large eggs",
+        "2 cups grated carrots",
+        "1/2 cup crushed pineapple, drained",
+        "1/2 cup chopped nuts (walnuts or pecans)",
+        "1 teaspoon baking powder",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "2 teaspoons ground cinnamon",
+        "Cream cheese frosting"
+      ],
+      "instructions": [
+        "Preheat your oven to 350°F (175°C).",
+        "In a bowl, mix the flour, sugar, baking powder, baking soda, salt, and cinnamon.",
+        "Add the oil and eggs, and mix well.",
+        "Stir in the grated carrots, crushed pineapple, and nuts.",
+        "Pour the batter into a greased cake pan.",
+        "Bake for 30-35 minutes or until a toothpick comes out clean.",
+        "Allow the cake to cool, then frost it with cream cheese frosting."
+      ]
+    },
+    "CEVICHE": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "1 lb white fish (tilapia, sole, or similar), cubed",
+        "1/2 cup fresh lime juice",
+        "1/4 cup fresh lemon juice",
+        "1/2 red onion, finely chopped",
+        "1-2 tomatoes, diced",
+        "1/2 cucumber, diced",
+        "1/4 cup fresh cilantro, chopped",
+        "Salt and pepper to taste",
+        "Hot sauce (optional)"
+      ],
+      "instructions": [
+        "In a bowl, combine the fish, lime juice, and lemon juice. Make sure the fish is completely submerged.",
+        "Cover and refrigerate for 15-30 minutes, or until the fish turns opaque (it's cooked by the citrus juice).",
+        "Drain off excess citrus juice.",
+        "Add the red onion, tomatoes, cucumber, and cilantro.",
+        "Season with salt, pepper, and hot sauce if desired.",
+        "Serve chilled."
+      ]
+    },
+    "CHEESECAKE": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "2 cups graham cracker crumbs",
+        "1/2 cup butter, melted",
+        "24 oz cream cheese, softened",
+        "1 cup granulated sugar",
+        "1 tsp vanilla extract",
+        "4 large eggs",
+        "Sour cream (for topping, optional)"
+      ],
+      "instructions": [
+        "Preheat your oven to 325°F (160°C).",
+        "Combine graham cracker crumbs and melted butter. Press into the bottom of a greased springform pan.",
+        "In a large bowl, beat cream cheese until smooth.",
+        "Add sugar and vanilla extract; mix until well combined.",
+        "Add eggs one at a time, mixing after each addition.",
+        "Pour the cream cheese mixture over the crust.",
+        "Bake for about 45-50 minutes or until the center is set.",
+        "Allow it to cool, then refrigerate for several hours or overnight.",
+        "Top with sour cream before serving, if desired."
+      ]
+    },
+    "CHEESE_PLATE": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "Assorted cheeses (e.g., cheddar, brie, gouda, blue cheese)",
+        "Assorted crackers or bread",
+        "Dried fruits (e.g., apricots, figs)",
+        "Nuts (e.g., almonds, walnuts)",
+        "Honey or fruit preserves"
+      ],
+      "instructions": [
+        "Arrange the assorted cheeses on a serving platter or board.",
+        "Surround the cheeses with crackers or bread.",
+        "Add dried fruits and nuts for variety.",
+        "Drizzle honey or serve fruit preserves on the side.",
+        "Serve at room temperature."
+      ]
+    },
+    "CHICKEN_CURRY": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "2 lbs boneless, skinless chicken, cut into pieces",
+        "2 onions, finely chopped",
+        "2 cloves garlic, minced",
+        "1-inch piece of ginger, minced",
+        "2 tomatoes, chopped",
+        "2 tsp curry powder",
+        "1 tsp cumin",
+        "1 tsp coriander",
+        "1/2 tsp turmeric",
+        "1/2 tsp chili powder (adjust to taste)",
+        "1/2 cup coconut milk",
+        "Salt and pepper to taste",
+        "Vegetable oil"
+      ],
+      "instructions": [
+        "Heat oil in a large pan and sauté onions, garlic, and ginger until soft.",
+        "Add chicken pieces and cook until browned.",
+        "Stir in the spices and cook for a couple of minutes.",
+        "Add tomatoes and cook until they soften.",
+        "Pour in the coconut milk and simmer until the chicken is cooked through.",
+        "Season with salt and pepper to taste.",
+        "Serve with rice or naan."
+      ]
+    },
+    "CHICKEN_QUESADILLA": {
+      "id":["IGlWE4AFQ5Q"],
+      "ingredients": [
+        "2 large flour tortillas",
+        "1 cup cooked chicken, shredded",
+        "1 cup shredded cheese (e.g., cheddar, Monterey Jack)",
+        "Salsa, sour cream, and guacamole (for dipping, optional)"
+      ],
+      "instructions": [
+        "Heat a large skillet over medium heat.",
+        "Place one tortilla in the skillet, add half of the cheese, then the shredded chicken, and the remaining cheese.",
+        "Top with the second tortilla.",
+        "Cook until the bottom tortilla is crispy and the cheese is melted (about 3-4 minutes), then flip and cook the other side.",
+        "Remove from the skillet and cut into wedges.",
+        "Serve with salsa, sour cream, and guacamole for dipping."
+      ]
+    }
+  }
+  
+  
